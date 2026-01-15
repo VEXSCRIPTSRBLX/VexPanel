@@ -1,5 +1,5 @@
 -- CONFIG
-local CORRECT_KEY = "MY_SECRET_KEY" -- change this
+local CORRECT_KEY = "B888" -- change this
 
 -- SERVICES
 local Players = game:GetService("Players")
